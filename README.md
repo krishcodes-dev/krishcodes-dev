@@ -29,6 +29,7 @@ Engineering student building **AI platforms, full-stack systems and scalable dat
 
 • Learning **AI with Cybersecurity**
 
+<img src="https://raw.githubusercontent.com/krishcodes-dev/krishcodes-dev/main/metrics.isocalendar.svg" width="100%"/>
 </td>
 
 <td width="55%" valign="top">
@@ -41,7 +42,7 @@ Engineering student building **AI platforms, full-stack systems and scalable dat
 
 <br>
 
-<img src="https://raw.githubusercontent.com/krishcodes-dev/krishcodes-dev/main/metrics.isocalendar.svg" width="100%"/>
+
 
 </td>
 
