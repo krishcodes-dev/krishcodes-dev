@@ -119,5 +119,5 @@ Engineering student building **AI platforms, full-stack systems and scalable dat
 
 </p>
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=120&section=footer" width="100%"/>
 </p>
